@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Produktas vienas",
+        "price": 31.99,
+        "description": "Nerealus produktas topshop",
+        "sizes": ["S", "M", "L"]
+    },
+    {
+        "title": "Produktas du",
+        "price": 19.99,
+        "description": "Nerealus produktas 2  topshop",
+        "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+        "title": "Produktas trys",
+        "price": 21.99,
+        "description": "Nerealus produktas topshop",
+        "sizes": ["M", "L"]
+    },
+    {
+        "title": "Produktas keturi",
+        "price": 6.99,
+        "description": "Nerealus produktas topshop",
+        "sizes": ["XS", "M", "L"]
+    }
+]
